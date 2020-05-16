@@ -1,5 +1,5 @@
 # 5 Days Fat Burning Program by @alex_cyk
-Instagram: [@alex_cyk](https://www.instagram.com/alex_cyk/)[https://www.instagram.com/alex_cyk/]
+Instagram: [@alex_cyk](https://www.instagram.com/alex_cyk/)
 
 # Winner's Standard
 * Winners **PERFORM** knowing that hard work is needed to achieve RESULTS, losers create EXCUSES not to do them
@@ -34,9 +34,7 @@ Weight is defined as:
 
 ### Caloric Deficit
 * Caloric Deficit: Consuming below your TDEE (Total Daily Energy Expenditure)
-
 **Example**: Alex's TDEE is 2800 calories per day to maintain his body weight. If he eats at 2500, he's at a 300 **Caloric Deficit**.
-
 * Warning: an extreme deficit will be *counter productive*.
 
 
