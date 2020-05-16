@@ -247,8 +247,11 @@ Consume the AMOUNT of calories you need in a day.
 * 1 Big Meal (40-50% of calories)
 * 1 medium meal (25-35% of calories) about 3-5 hours later
 * 1 snack/smaller meal (15-20% of remiaining calories)
+* Make sure PROTEIN is covered!
+* Include Protein in first 2 meals
+* **Don't eat boring food!** Be creative with your meals. Season and make it delicious!
 
-|Favourite Food List|
+###Favourite Food List
 |Recommended Proteins|Recommended Carbs|Recommended Added Fats|
 |---|---|---|
 |Chicken Breast|Potatoes|Butter|
@@ -258,5 +261,57 @@ Consume the AMOUNT of calories you need in a day.
 |Egg Whites|Pasta|Peanut Butter|
 |Low-fat Cheese|Veggies/Greens|Salmon|
 
+####No need to count calories from **GREEN VEGETABLES**
+Low calories, doesn't really count.
 
+# Chapter 5: Training at Home
+1. Bodyweight Training
+  * Goal is to build tone & lean muscles
+  * Great way to develop a **Foundation**
+2. Cardio Training
+  * Goal is to burn extra calories
+  * Great way to improve cardiovascularity (how blood flows in your body)
+  
+Plan:
+1. Chest/Abs
+2. Cardio
+3. Shoulders/Back
+4. Cardio
+5. Legs/Abs
 
+## Chest/Abs
+Warmup:
+Focus - Activate the shoulder cuff - 20sec each
+1. Arm Circles Clockwise (CW)
+2. Arm Circles Counterclockwise (CCW)
+3. Cross Arms
+4. Forearm Up & Down
+
+Workout:
+Chest (60-90sec rest between sets)
+1. Pushups 4x15
+2. Deep Pushup 4x10
+3. Side By Side Pushups 3x10 (5-6 on each side)
+4. Incline Pushups 4x10
+
+Ab Exercise Cycle - 3 sets (60sec rest)
+1. Toe Touch 10 reps
+2. Leg Raises 10 reps
+3. Plank 1min
+
+## Cardio
+1. High-knee kick (10x30, 45sec)
+2. Explosive Squat Lunges (10x10, 1min)
+
+## Shoulders/Back
+1. Pike Press (5x8-12, 90sec)
+2. Lying back Extension (5x10-15, 60sec)
+3. Lateral raise with Bottles (5x20, 60-90sec)
+4. Rear delt fly with bottles (5x20, 60-90sec)
+5. Band upright rows (3x15, 60sec)
+
+## Legs
+1. Jumping Squat (5x8-12, 60sec)
+2. Normal Squat + 1sec squeeze (5x10-20, 60sec)
+3. Bulgarian Split Squat w/ chair (5x8-15, 60sec)
+4. Hip Thruster (3x15, 60sec)
