@@ -279,12 +279,13 @@ Low calories, doesn't really count.
   * Goal is to burn extra calories
   * Great way to improve cardiovascularity (how blood flows in your body)
   
-Plan:
-1. Chest/Abs
-2. Cardio
-3. Shoulders/Back
-4. Cardio
-5. Legs/Abs
+| Day | Workout |
+|---|---|
+|Monday|Chest/Abs|
+|Tuesday|Cardio|
+|Wednesday|Shoulders/Back|
+|Thursday|Cardio|
+|Friday|Legs/Abs|
 
 ## Chest/Abs
 Warmup:
