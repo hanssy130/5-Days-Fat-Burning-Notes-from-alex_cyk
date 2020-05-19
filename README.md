@@ -1,6 +1,13 @@
 # 5 Days Fat Burning Program by @alex_cyk
 Instagram: [@alex_cyk](https://www.instagram.com/alex_cyk/)
 
+# Table of Contents
+* Chapter 1: Weight
+* Chapter 2: Caloric Deficit
+* Chapter 3: Calories
+* Chapter 4: Intermittent Fasting
+* Chapter 5: Training at Home
+
 # Winner's Standard
 * Winners **PERFORM** knowing that hard work is needed to achieve RESULTS, losers create EXCUSES not to do them
 * Winners find **WAYS** to succeed. Losers stay at a problem and do nothing about it.
