@@ -258,7 +258,7 @@ Consume the AMOUNT of calories you need in a day.
 * Include Protein in first 2 meals
 * **Don't eat boring food!** Be creative with your meals. Season and make it delicious!
 
-###Favourite Food List
+### Favourite Food List
 |Recommended Proteins|Recommended Carbs|Recommended Added Fats|
 |---|---|---|
 |Chicken Breast|Potatoes|Butter|
@@ -268,7 +268,7 @@ Consume the AMOUNT of calories you need in a day.
 |Egg Whites|Pasta|Peanut Butter|
 |Low-fat Cheese|Veggies/Greens|Salmon|
 
-####No need to count calories from **GREEN VEGETABLES**
+#### No need to count calories from **GREEN VEGETABLES**
 Low calories, doesn't really count.
 
 # Chapter 5: Training at Home
